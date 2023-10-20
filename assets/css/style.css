@@ -195,7 +195,6 @@ header{
 
 .section-title{
     font-size: 28px;
-    /* font-style: 1.5rem; */
     font-weight: 700;
     text-align: center;
     margin-top: 1.5rem;
@@ -268,15 +267,18 @@ header{
 }
 
 /* tablet */
-@media (max-width: 400px){
+@media (max-width: 600px){
     .nav{
         padding: 11px;
     }
-    .logo{
-        font-size: 1rem;
-    }
     .cart{
         width: 320px;
+    }
+    .logo{
+        width: 40%;
+        height: auto;
+        left: 10px;
+        margin-top: 20px;
     }
 }
 
@@ -287,6 +289,12 @@ header{
     }
     .cart{
         width: 280px;
+    }
+    .logo{
+        width: 40%;
+        height: auto;
+        left: 10px;
+        margin-top: 10px;
     }
 }
 
