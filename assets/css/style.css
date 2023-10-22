@@ -250,9 +250,12 @@ header{
 }
 
 /* breakpoints */
-@media (max-widtt: 1080px){
+@media (max-width: 1080px){
     .nav{
         padding: 15px;
+    }
+    .product-box{
+        margin: 0 15px;
     }
     .container{
         width:90%;
@@ -271,6 +274,9 @@ header{
     .nav{
         padding: 11px;
     }
+    .product-box{
+        margin: 0 20px;
+    }
     .cart{
         width: 320px;
     }
@@ -286,6 +292,9 @@ header{
 @media (max-width: 360px){
     .shop{
         margin-top: 1rem;
+    }
+    .product-box{
+        margin: 0 20px;
     }
     .cart{
         width: 280px;
