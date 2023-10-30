@@ -2,10 +2,15 @@
 The aim of the project is to create a simple counter with buttons for increasing or decreasing the numerical data. I decided to make this activity more fun by creating an add to cart of a fake e-commerce site.
 # Table of Contents
 - Demo
+- Build with
 - Usage
 - Contributing
 # Demo
 You can try out a live demo of this app by following this [link.](https://e-commerce-beta-liard.vercel.app/)
+# Build with
+- HTML
+- CSS
+- Javascript
 # Usage
 - Click on the product's add to cart icon;
 - Open the cart via the icon on the top right navbar;
