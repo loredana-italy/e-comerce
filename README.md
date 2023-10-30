@@ -12,7 +12,7 @@ You can try out a live demo of this app by following this [link.](https://e-comm
 - CSS
 - Javascript
 # Usage
-- Click on the product's add to cart icon (choose as many products as you want);
+- Click on the product's add to cart icon (choose as many product types as you want);
 - Open the cart via the icon on the top right navbar;
 - See the products added and increase and decrease the number of products (>1) while viewing the price change;
 - You can delete the product in the shopping cart via a dedicated icon to the right of the product;
