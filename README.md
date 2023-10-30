@@ -5,7 +5,7 @@ The aim of the project is to create a simple counter with buttons for increasing
 - Usage
 - Contributing
 # Demo
-You can try out a live demo of this app by following this link.
+You can try out a live demo of this app by following this [link.](https://e-commerce-beta-liard.vercel.app/)
 # Usage
 - Click on the product's add to cart icon;
 - Open the cart via the icon on the top right navbar;
